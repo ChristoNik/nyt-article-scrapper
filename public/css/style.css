@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(36, 51, 70);
+    opacity: .92;
+}
+
+.jumbotron {
+    background: #081f38;
+    height: 15rem;
+    width: 100%;
+    color: lightgrey;
+    background-position: center center;
+    background-size: cover;
+}
+
+.form-text-color {
+    color: white;
+}
+
+#empty-db-alert {
+    display: none
+}
+
+.card {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: Lavender;
+}
+
+.btn {
+    margin: 1rem;
+}
