@@ -12,8 +12,3 @@ Technologies employed:
 - Express  npm module
 - Cheerio  npm module for scraping
 - Bootstrap 4
-
-Future Improvements:
-- refine structure
-- redefine routes
-- refactor to improve brevity 
